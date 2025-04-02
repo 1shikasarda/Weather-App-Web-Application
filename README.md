@@ -3,7 +3,7 @@
 ## *Overview*
 A responsive web application that fetches and displays real-time weather data using a weather API . Users can get weather information either by allowing location access or by searching for any city worldwide 🌍
 
-## *Features *
+## *Features*
 - Location-based weather: Automatically detects user's location📍 
 - City search: Find weather for any location worldwide🌐 
 - Current conditions: Temperature, humidity, wind speed, etc.🌡️ 
